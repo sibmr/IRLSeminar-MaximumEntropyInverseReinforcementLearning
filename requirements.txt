@@ -1,0 +1,9 @@
+numpy==1.17.4
+matplotlib==3.3.4
+gym==0.18.3
+ipython==7.19.0
+ipython-genutils==0.2.0
+jupyter==1.0.0
+jupyter-client==6.1.7
+jupyter-console==6.2.0
+jupyter-core==4.7.0
