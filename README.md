@@ -1,5 +1,7 @@
 # Maximum Entropy Inverse Reinforcement Learning
 
+Course Project for the "Inverse Reinforcement Learning" Seminar at the University of Stuttgart.
+
 ## Dependencies
 The requirements are:
 * numpy
